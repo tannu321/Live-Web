@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-size : 50px;
+    font-family: bold;
+    background-color: blue;
+    padding: 20px;
+    
+
+}
+
+.grey{
+    color: grey;
+}
+
+.white{
+    color: white;
+}
+
+ol{
+    list-style-type: none;
+}
+
+li{
+    border: 1px solid black;
+    text-align: center;
+    display:inline-block;
+    margin: 15px;
+    width: 20%;
+    padding:10px;
+    font-size: 25px;
+    font-family: bold;
+
+}
+
+img{
+    width:100%;
+    height: 600px;
+}
+a{
+    text-decoration-line: none;
+    color: orange;
+}
+
